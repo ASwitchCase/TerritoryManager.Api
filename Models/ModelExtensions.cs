@@ -15,5 +15,11 @@ namespace TerritoryManager.Api.Models
                 territory.driveLink
             );
         }
+        public static UserAddDto AsDto(this User user){
+            return new UserAddDto(
+                user.password,
+                user.username
+            );
+        }
     }
 }

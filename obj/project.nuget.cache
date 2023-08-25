@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XkBFH1Ua0TOeyutNZ00RWbE614yjq4tOpQz5kgVPXYn6/UP937ySZJdduXj0ycREA5MmMVeVJ+INuE0f4s7Drw==",
+  "dgSpecHash": "8g2SrLpM2r8uCNcYFKzpjsoLnktnY68T+UNbjul0q9v/83UD/E9aQKfc0hbRzL82JEEVXsvuz0wKpqPPz7H/UQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\TerritoryManager.Api.csproj",
+  "projectFilePath": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\TerritoryManager.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adams\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\adams\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

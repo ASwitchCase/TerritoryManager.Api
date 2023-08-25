@@ -17,3 +17,9 @@ public record TerritoryUpdateDto(
     Publisher publisher,
     string dateAssigned
 );
+
+public record UserAddDto(
+    string username,
+    string password
+);
+
