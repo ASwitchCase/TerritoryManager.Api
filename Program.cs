@@ -12,6 +12,7 @@ builder.Services.AddSingleton<IUserRepository,UserRepository>();
 var app = builder.Build();
 
 //Kill some errors 
+app.UseCors();
 app.UseMiddleware<ErrorKillerMiddleware>();
 app.MapGet("/", () => "Hello World!");
 app.MapTerritoryRoutes();
