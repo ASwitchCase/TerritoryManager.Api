@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\TerritoryManager.Api.csproj": {}
+    "c:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\TerritoryManager.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\TerritoryManager.Api.csproj": {
+    "c:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\TerritoryManager.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\TerritoryManager.Api.csproj",
+        "projectUniqueName": "c:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\TerritoryManager.Api.csproj",
         "projectName": "TerritoryManager.Api",
-        "projectPath": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\TerritoryManager.Api.csproj",
+        "projectPath": "c:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\TerritoryManager.Api.csproj",
         "packagesPath": "C:\\Users\\adams\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\obj\\",
+        "outputPath": "c:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adams\\AppData\\Roaming\\NuGet\\NuGet.Config",
