@@ -25,6 +25,8 @@ app.UseCors(builder =>
     .AllowAnyHeader();
 });
 
+app.UseStaticFiles();
+
 //Kill some errors 
 app.UseMiddleware<ErrorKillerMiddleware>();
 app.MapGet("/", () => "Hello World!");
