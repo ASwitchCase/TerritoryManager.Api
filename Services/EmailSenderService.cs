@@ -10,8 +10,8 @@ namespace EmailSender.api.Services
 {
     public class EmailSenderService : IEmailSender
     {
-        private readonly string user;
-        private readonly string password;
+        private readonly string? user;
+        private readonly string? password;
         public EmailSenderService(EmailSettings settings){
             user = settings.GetUserEmail();
             password = settings.GetEmailPassword();

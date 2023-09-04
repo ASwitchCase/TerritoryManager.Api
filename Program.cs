@@ -10,6 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 
 builder.Services.AddScoped<MongoDbSettings>();
+builder.Services.AddScoped<EmailSettings>();
 builder.Services.AddTransient<IEmailSender, EmailSenderService>();
 builder.Services.AddSingleton<ITerritoryRepository,TerritoryRepository>();
 builder.Services.AddSingleton<IUserRepository,UserRepository>();

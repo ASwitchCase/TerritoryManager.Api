@@ -8,18 +8,17 @@ namespace TerritoryManager.Api.Settings
 {
     public class EmailSettings
     {
-        private IConfiguration configuration;
-        private readonly string ? User;
+        private IConfiguration? configuration;
+        private readonly string? User;
         private readonly string? Password;
         public EmailSettings(IConfiguration configuration){
-            this.configuration = configuration;
             User = configuration.GetConnectionString("GUSER");
             Password = configuration.GetConnectionString("GPASS");
         }
-        public string GetUserEmail(){
+        public string? GetUserEmail(){
             return User;
         }
-        public string GetEmailPassword(){
+        public string? GetEmailPassword(){
             return Password;
         }
     }
