@@ -22,11 +22,11 @@ namespace EmailSender.api.Services
         {
             EnableSsl = true,
             UseDefaultCredentials = false,
-            Credentials = new NetworkCredential(this.user, this.password)
+            Credentials = new NetworkCredential(user, password)
         };
  
         return client.SendMailAsync(
-            new MailMessage(from: this.user,
+            new MailMessage(from: user,
                             to: email,
                             subject,
                             message
