@@ -1,0 +1,221 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\10A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\10A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\11A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\11A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\11B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\11B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\11C.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\11C.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\12C.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\12C.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\13A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\13A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\13B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\13B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\13C.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\13C.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\14A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\14A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\14B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\14B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\15A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\15A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\15B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\15B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\15C.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\15C.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\16A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\16A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\16B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\16B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\17A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\17A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\17B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\17B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\18A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\18A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\18B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\18B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\19A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\19A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\19C.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\19C.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\1A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\1A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\1B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\1B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\1C.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\1C.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\20A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\20A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\20B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\20B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\21A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\21A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\21B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\21B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\21C.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\21C.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\22A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\22A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\22B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\22B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\2A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\2A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\2B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\2B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\2C.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\2C.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\3A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\3A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\3B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\3B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\3C.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\3C.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\4A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\4A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\4B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\4B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\4C.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\4C.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\5A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\5A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\6A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\6A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\6B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\6B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\7A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\7A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\7B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\7B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\7C.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\7C.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\8A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\8A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\8B.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\8B.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\9A.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\9A.png"
+    },
+    {
+      "Id": "C:\\Users\\adams\\OneDrive\\Desktop\\MyApis\\dotnet-apis\\TerritoryManager\\TerritoryManager.Api\\wwwroot\\images\\TerritoryCards\\9X.png",
+      "PackagePath": "staticwebassets\\images\\TerritoryCards\\9X.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TerritoryManager.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TerritoryManager.Api.props",
+      "PackagePath": "build\\TerritoryManager.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TerritoryManager.Api.props",
+      "PackagePath": "buildMultiTargeting\\TerritoryManager.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TerritoryManager.Api.props",
+      "PackagePath": "buildTransitive\\TerritoryManager.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

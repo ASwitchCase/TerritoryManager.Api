@@ -38,3 +38,4 @@ C:\Users\adams\OneDrive\Desktop\MyApis\dotnet-apis\TerritoryManager\TerritoryMan
 C:\Users\adams\OneDrive\Desktop\MyApis\dotnet-apis\TerritoryManager\TerritoryManager.Api\obj\Debug\net7.0\TerritoryManager.Api.pdb
 C:\Users\adams\OneDrive\Desktop\MyApis\dotnet-apis\TerritoryManager\TerritoryManager.Api\obj\Debug\net7.0\TerritoryManager.Api.genruntimeconfig.cache
 C:\Users\adams\OneDrive\Desktop\MyApis\dotnet-apis\TerritoryManager\TerritoryManager.Api\obj\Debug\net7.0\ref\TerritoryManager.Api.dll
+C:\Users\adams\OneDrive\Desktop\MyApis\dotnet-apis\TerritoryManager\TerritoryManager.Api\bin\Debug\net7.0\TerritoryManager.Api.staticwebassets.runtime.json
